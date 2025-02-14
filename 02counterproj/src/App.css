@@ -1,0 +1,30 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+h1{
+  color: crimson;
+  text-decoration: underline;
+}
+
+h1:hover{
+  color: darkred;
+}
+
+button:hover{
+  background-color: transparent;
+  cursor: pointer;
+}
+
+button{
+  padding: 10px;
+  margin: 10px;
+  border: none;
+}
+
+h2{
+  color:#4f4fac;
+}
